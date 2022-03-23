@@ -14,7 +14,7 @@
     border-radius: 16px;
     /* gap: 50px; */
     padding: 10px;
-    margin:15px;
+    /* margin:15px; */
     color: white;
     position: relative;
 }
@@ -50,7 +50,7 @@ img{
 }
 
 .mycard:hover .card-desc {
-    overflow: scroll;
+    /* overflow: scroll; */
     height: 50%;
     width: 100%;
     
@@ -61,6 +61,5 @@ img{
 .row{
     justify-content:space-around;
    padding:50px;
-
-
+   gap:30px;
 }
